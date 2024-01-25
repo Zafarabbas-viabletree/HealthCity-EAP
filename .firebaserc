@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cbt-healthcity",
+    "eap-staging": "eap-healthcity-staging",
+    "eap-prod": "eap-healthcity"
+  }
+}
